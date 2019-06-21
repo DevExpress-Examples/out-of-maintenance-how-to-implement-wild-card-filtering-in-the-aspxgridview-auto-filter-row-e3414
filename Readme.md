@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to implement wild-card filtering in the ASPxGridView Auto Filter Row
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3414/)**
+<!-- run online end -->
 
 
 <p><strong>From</strong><strong> </strong><strong>v2011 vol 1</strong><strong> </strong><strong>to</strong><strong> </strong><strong>v201</strong><strong>2</strong><strong> vol </strong><strong>1</strong><br />
